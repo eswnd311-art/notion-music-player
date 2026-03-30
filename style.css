@@ -16,10 +16,6 @@ body {
   outline: none;
 }
 
-body {
-  margin: 0;
-  background-color: #fff;
-}
 
 #player-container {
   position: absolute;
